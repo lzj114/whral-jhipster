@@ -1,2 +1,2 @@
-# whral-jhipster
+# whreal-jhipster
 # 测试
